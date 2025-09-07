@@ -1,9 +1,9 @@
 {
   "name": "tiktok-sign-proxy",
   "version": "1.0.0",
-  "description": "Proxy for TikTok sign server (Euler) to bypass local DNS/ISP blocks",
-  "type": "module",
+  "description": "Proxy for TikTok sign server (Euler)",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
